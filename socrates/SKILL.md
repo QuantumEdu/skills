@@ -6,7 +6,7 @@ description: >
   Guía una idea desde la divergencia hasta la convergencia con orden, claridad y profundidad.
   Trigger: "socrates", "seis sombreros", "pensamiento lateral", "design thinking", "lluvia de ideas",
   "brainstorming", "mayéutica", "divergencia", "convergencia", "explorar idea", "darle forma".
-license: Apache-2.0
+license: MIT
 metadata:
   author: gentleman-programming
   version: "1.0"
