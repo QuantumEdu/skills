@@ -7,6 +7,7 @@ Este repositorio contiene definiciones de **skills** listas para usar en agentes
 | Skill | Descripción |
 |-------|-------------|
 | [Socrates](./socrates/) | Facilitación estructurada de pensamiento crítico y creativo usando los Seis Sombreros, Mayéutica Socrática, Pensamiento Lateral, Brainstorming y Design Thinking |
+| [Firefly Breakdown](./firefly-breakdown/) | Parte tareas complejas en un primer paso de 60 s + subtareas con tiempo estimado y las crea en Todoist (con OK). Para Cronos |
 
 ## 🚀 Cómo usar una skill
 
@@ -28,6 +29,9 @@ skills/
 ├── socrates/              ← Skill: pensamiento crítico
 │   ├── README.md          ← Descripción, uso y capacidades
 │   └── SKILL.md           ← Definición completa de la skill
+├── firefly-breakdown/     ← Skill: desglose de tareas (Cronos)
+│   ├── README.md
+│   └── SKILL.md
 └── ... (más skills)
 ```
 
